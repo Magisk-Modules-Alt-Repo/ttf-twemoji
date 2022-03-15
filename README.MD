@@ -8,7 +8,9 @@ Uses the [Fedora](https://fedoraproject.org/)'s twitter-twemoji-fonts package be
 
 I took inspiration from [ttf-twemoji](https://aur.archlinux.org/packages/ttf-twemoji/) over from the Arch Linux User Repository to get the compatible font.
 
-I do not own the graphics, nor the font files, I'm just sharing them in a way that is easy for everyone to enjoy. The module is confirmed to work in LineageOS 18.1 (Android 11) and Magisk 20+.
+I do not own the graphics, nor the font files, I'm just sharing them in a way that is easy for everyone to enjoy.
+
+The module is confirmed to work in LineageOS 18.1 (Android 11) and Magisk 20+. But apparently doesn't seem to work on Android 12.
 
 ## Attribution
 
