@@ -10,7 +10,9 @@ I took inspiration from [ttf-twemoji](https://aur.archlinux.org/packages/ttf-twe
 
 I do not own the graphics, nor the font files, I'm just sharing them in a way that is easy for everyone to enjoy.
 
-The module is confirmed to work in LineageOS 18.1 (Android 11) and Magisk 20+. But there have been reports that it doesn't seem to work on Android 12.
+The module is confirmed to work in LineageOS 18.1 and 19.1 (Android 11 and 12) with Magisk 20+.
+
+Any issue of emoji not changing can be fixed by cleaning the app's cache and rebooting so the stock ones are replaced.
 
 ## Attribution
 
