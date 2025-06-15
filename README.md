@@ -12,9 +12,9 @@ I took inspiration from [ttf-twemoji](https://aur.archlinux.org/packages/ttf-twe
 
 I do not own the graphics, nor the font files, I'm just sharing them in a way that is easy for everyone to enjoy.
 
-It changes <code>/system/fonts/NotoColorEmoji.ttf</code> and <code>/system/fonts/NotoColorEmojiFlags.ttf</code>. The flags variant is smaller and only has flags, and has lower priority than the regular font file, but I include it regardless, as there is a slight chance some app wants it.
+It changes <code>/system/fonts/NotoColorEmoji.ttf</code>.
 
-The module is confirmed to work in LineageOS 18.1 and 19.1 (Android 11 and 12L) with Magisk 20+.
+The module is confirmed to work in LineageOS 18.1, 19.1, 22.2 (Android 11, 12L, and 15) with Magisk 20+.
 
 Any issue of emoji not changing can be fixed by cleaning the app's cache and rebooting so the stock ones are replaced.
 
