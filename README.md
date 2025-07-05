@@ -1,6 +1,6 @@
 # Twemoji replacer
 
-This module changes Google Noto Emoji to Twitter Emoji.
+This module changes Google Noto Emoji to Twemoji.
 
 ## Description
 
